@@ -1,5 +1,4 @@
-1) Add database online-store.sql to localhost/phpmyadmin with name: online-store
-2) Open website: localhost/online-store
+website: https://onstor459.000webhostapp.com/
 
 **Admin Panel: /admin_area **
 
