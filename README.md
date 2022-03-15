@@ -4,7 +4,7 @@ website: https://onstor459.000webhostapp.com/
 
 ## Admin Login Details
 
-**Username: admin@mail.com**
+**Username: admin@gmail.com**
 **Password: admin**
 
 ## User Login test Details
